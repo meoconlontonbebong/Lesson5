@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_128">128dp</dimen>
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="dp_48">48dp</dimen>
+    <dimen name="dp_64">64dp</dimen>
+    <dimen name="dp_32">32dp</dimen>
+    <dimen name="dp_24">24dp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+</resources>
